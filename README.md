@@ -16,7 +16,7 @@ End-to-end data analysis of 15,000 top-rated anime titles. Data cleaning and exp
 - [Repository structure](#repository-structure)
 - [How to reproduce](#how-to-reproduce)
 - [Skills demonstrated](#skills-demonstrated)
-- [Contact]
+- [Contact](#Contact)
 
 ## Business problem
 
@@ -87,7 +87,7 @@ The dashboard has three pages.
 |---|---|---|
 | **Overview** | Headline numbers, score by type, TV releases per year, top 10 most-favorited titles | ![Overview](Dashboard/Screenshot/01_overview.png) |
 | **Genre and Rating** | Genre, source, episode length and studio vs score | ![Genre and Rating](Dashboard/Screenshot/02_genre_rating.png) |
-| **Popularity and Engagement** | Quality vs popularity, concentration of favorites, hidden gems | ![Popularity and Engagement](Dashboard/Screenshots/03_popularity_engagement.png) |
+| **Popularity and Engagement** | Quality vs popularity, concentration of favorites, hidden gems | ![Popularity and Engagement](Dashboard/Screenshot/03_popularity_engagement.png) |
 
 ## Limitations
 
