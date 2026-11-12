@@ -85,9 +85,9 @@ The dashboard has three pages.
 
 | Page | Answers | Preview |
 |---|---|---|
-| **Overview** | Headline numbers, score by type, TV releases per year, top 10 most-favorited titles | ![Overview](dashboard/screenshots/01_overview.png) |
-| **Genre and Rating** | Genre, source, episode length and studio vs score | ![Genre and Rating](dashboard/screenshots/02_genre_rating.png) |
-| **Popularity and Engagement** | Quality vs popularity, concentration of favorites, hidden gems | ![Popularity and Engagement](dashboard/screenshots/03_popularity_engagement.png) |
+| **Overview** | Headline numbers, score by type, TV releases per year, top 10 most-favorited titles | ![Overview](Dashboard/Screenshot/01_overview.png) |
+| **Genre and Rating** | Genre, source, episode length and studio vs score | ![Genre and Rating](Dashboard/Screenshot/02_genre_rating.png) |
+| **Popularity and Engagement** | Quality vs popularity, concentration of favorites, hidden gems | ![Popularity and Engagement](Dashboard/Screenshots/03_popularity_engagement.png) |
 
 ## Limitations
 
